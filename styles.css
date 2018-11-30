@@ -73,8 +73,9 @@ header {
 
 .collage {
   text-align: center;
-  background: url('images/collage.jpg') no-repeat top center ;
+  background: url('images/collage.jpg') no-repeat;
   background-size: cover;
+  background-position: center;
   overflow: hidden;
   padding-top: 60px;
   }
