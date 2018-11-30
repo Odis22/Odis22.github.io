@@ -75,7 +75,7 @@ header {
   text-align: center;
   background: url('images/collage.jpg') no-repeat;
   background-size: cover;
-  background-position: center;
+  background-position: 100% 100%;
   overflow: hidden;
   padding-top: 60px;
   }
